@@ -1,5 +1,8 @@
 # Fuck for VIP(去你妈的会员)
 
+![downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.bug.hookvip)
+[![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.bug.hookvip)](https://github.com/Xposed-Modules-Repo/com.bug.hookvip/releases)
+
 一个解锁部分软件会员与去广告的模块（详情见模块内）
 
 # 官方群组
